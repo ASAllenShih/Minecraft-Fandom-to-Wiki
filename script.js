@@ -8,6 +8,7 @@
 // @icon        https://cdn.asallenshih.tw/favicon.ico
 // @grant       none
 // @run-at      document-start
+// @updateURL   https://raw.githubusercontent.com/ASAllenShih/Minecraft-Fandom-to-Wiki/refs/heads/main/script.js
 // @downloadURL https://raw.githubusercontent.com/ASAllenShih/Minecraft-Fandom-to-Wiki/refs/heads/main/script.js
 // ==/UserScript==
 
